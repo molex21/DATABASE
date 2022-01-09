@@ -1,0 +1,1 @@
+Create user "admin" to use database with crud permissions adn upload database
